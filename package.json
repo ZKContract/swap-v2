@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": "https://github.com/ZKContract/uniswap-v2",
+  "homepage": "https://github.com/ZKContract/swap-v2",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
